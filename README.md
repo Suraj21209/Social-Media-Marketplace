@@ -124,14 +124,9 @@ Contributions to the Social Media Marketplace are welcome! Please follow these s
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-MIT License
-
 ## Contact
 Project Link: [https://github.com/Suraj21209/Social-Media-Marketplace](https://github.com/Suraj21209/Social-Media-Marketplace)
 
 ---
 
 Created by [Suraj21209](https://github.com/Suraj21209)
-
-Similar code found with 1 license type
